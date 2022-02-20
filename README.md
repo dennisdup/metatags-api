@@ -9,5 +9,5 @@ Update ports in docker-compose file to reflect available ports in local system
 
 Uses laravel sails, can configure an alias in local system
 
- ./vendor/bin/sail up -d
+ `./vendor/bin/sail up -d`
 
